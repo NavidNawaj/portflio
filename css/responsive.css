@@ -1,0 +1,215 @@
+/*///////////// 1199.98-992 starts//////////////*/
+@media (min-width: 992px) and (max-width: 1199.98px) {
+
+
+
+.banner-content
+{
+	margin-top: 35px;
+}
+.banner-social
+{
+	position: absolute;
+	top: 70%;
+}
+.socails ul li
+{
+	margin: 0 18px;
+}
+.img_box
+{
+	height: 530px;
+}
+
+}
+/*///////////// 1199.98-992 finish//////////////*/
+
+
+
+
+
+
+
+
+
+
+/*///////////// 992-768 starts//////////////*/
+@media (min-width: 768px) and (max-width: 991.98px) 
+{
+	.sidebar{
+		display: block;
+	}
+	.navbar-nav .nav-item{
+		display: block;
+		text-align: center;
+	}
+	.typejs 
+	{	
+		font-size: 44px;
+	}
+	.img_box
+	{
+		text-align: center;
+		width: 100%;
+		height: 550px;
+		margin-bottom: 50px;
+	}
+	.buttons a
+	{
+		margin-bottom: 20px;
+	}
+	.chart
+	{
+		width: 130px;
+		height: 130px;
+		line-height: 130px;
+	}
+	canvas{
+		width: 130px !important;
+		height: 130px !important;
+	}
+	.isotope-button:nth-child(6)
+	{
+	margin-top: 10px;
+	}
+}
+/*///////////// 992-768 finish//////////////*/
+
+
+
+
+
+
+
+
+
+
+/*///////////// 767.98-576px starts//////////////*/
+@media (min-width: 576px) and (max-width: 767.98px) {
+
+	.navbar-nav .nav-item{
+		display: block;
+		text-align: center;
+	}
+	.banner-content
+	{
+		margin: 10px 0;
+	}
+	.typejs
+	{
+		font-size: 40px;
+	}
+	.img_box
+	{
+		margin-bottom: 50px;
+		width: 100%;
+		height: 550px;
+	}
+	.buttons a
+	{
+		margin-bottom: 25px;
+	}
+	.chart
+	{
+		height: 105px;
+		width: 105px;
+		line-height: 105px;
+		font-size: 26px;
+	}
+	canvas
+	{
+	    width: 105px !important;
+	    height: 105px !important;
+	}
+	.isotope-button:nth-child(5)
+	{	
+		margin-top: 15px;
+	}
+	.pie-chart h2
+	{
+		font-size: 18px;
+	}
+}
+/*///////////// 767.98-576px finish//////////////*/
+
+
+
+
+
+
+
+
+
+/*///////////// 575.98px strats//////////////*/
+@media (max-width: 575.98px) {
+
+
+	.navbar-nav .nav-item{
+		display: block;
+		text-align: center;
+	}
+	.banner-content
+	{
+		margin-top: 35px;
+	}
+	.typejs{
+		font-size: 35px;
+	}
+	.banner-social
+	{
+		position: absolute;
+		top: 70%;
+	}
+	.img_box
+	{
+		width: 100%;
+		margin-bottom: 50px;
+	}
+	.buttons a
+	{
+		margin-bottom: 25px;
+	}
+
+	.chart
+	{
+		margin-top: 70px;
+	}
+	.isotope-button
+	{
+		margin-top: 15px;
+	}
+	.i-img{}
+	.socails ul li
+	{
+		margin: 0 18px;
+	}
+}
+/*///////////// 575.98px finish//////////////*/
+
+
+
+
+
+
+
+
+
+
+
+/*///////////// 449px start//////////////*/
+
+@media (max-width: 449px){
+
+
+.info li {
+    display: block;
+}
+
+
+}
+
+
+
+
+/*///////////// 575.98px finish//////////////*/
+
